@@ -31,3 +31,4 @@ Inside main, call the myMethod() method:
 
 # Call a Method
 Inside main, call the myMethod() method:
+.
