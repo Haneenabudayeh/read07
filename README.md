@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# SCRIPT 
+A scripting language is a programming language that are interpreted by a runtime script engine.
+The Java Scripting API can execute scripts written in any scripting language that can be compiled to Java bytecode.
 
-You can use the [editor on GitHub](https://github.com/Haneenabudayeh/read07/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### smaller steps:
+1. DEFINE THE GOAL 
+1. DESIGN THE SCRIPT 
+1. CODE EACH STEP 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### example to designe script:
 
-### Markdown
+![script flow chart](https://i.stack.imgur.com/hJTsv.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Expressions + Operators: 
 
-# Header 1
-## Header 2
-### Header 3
+## Expressions
+Expressions are essential building blocks of any Java program, usually created to produce a new value, although sometimes an expression assigns a value to a variable. Expressions are built using values, variables, operators and method call.
 
-- Bulleted
-- List
+## Operators
+operators are used in mathematical expressions in the same way that they are used in algebra. The following table lists the arithmetic operators.
 
-1. Numbered
-2. List
+![operators](https://contribute.geeksforgeeks.org/wp-content/uploads/arithmetic-operators.png)
 
-**Bold** and _Italic_ and `Code` text
+## WHAT IS A FUNCTION?
+A method is a block of code which only runs when it is called.
+You can pass data, known as parameters, into a method.
 
-[Link](url) and ![Image](src)
-```
+# create method 
+Inside main, call the myMethod() method:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haneenabudayeh/read07/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Call a Method
+Inside main, call the myMethod() method:
